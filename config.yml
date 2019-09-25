@@ -1,0 +1,6 @@
+---
+url: http://influxDB:8086/
+db: miniResMon
+user: miniResMon_reporter
+pass: nicePassword1234
+
